@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wordle</string>
+    <string name="welcome_to_wordle_game">Welcome to Wordle Game</string>
+    <string name="enter_guess_please">Enter Guess Please!</string>
+    <string name="press">Press</string>
+    <string name="welcometowordlegame" />
+    <string name="Enter_FourletterWords" />
+    <string name="enter_four_letter_words">Enter Four letter Words</string>
+</resources>
